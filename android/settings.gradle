@@ -1,0 +1,3 @@
+rootProject.name = 'fitio'
+
+include ':app'
